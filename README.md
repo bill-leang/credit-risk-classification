@@ -1,8 +1,8 @@
 **Overview**  
 The analysis is to train a Logistic Regression model to predict whether a loan is healthy or high risk based on 7 factors:
 <ol>
-  <li>loan size</li>
-  <li>interest rate</li>
+  <li>loan_size</li>
+  <li>interest_rate</li>
   <li>borrower_income</li>
   <li>debt_to_income</li>
   <li>num_of_accounts</li>

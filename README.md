@@ -19,4 +19,4 @@ We found the model has
 </ul>
 
 **Summary**  
-The above result is based on a testing data of 18,765 healthy loans and 619 high risk loans, which is considerable. As the model has a high accuracy (99%), we would recommend the model to the company as it would mitigate the risk from high risk loans. 
+The above result is based on a testing data of 18,765 healthy loans and 619 high risk loans, which is considerable. As the model has a high accuracy (99%), we would recommend the model to the company. The F1-score for the healthy loan is near perfect while that of the high risk loan is 88%, the model would help to mitigate the risk from high risk loans significantly. 
